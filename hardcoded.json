@@ -1,0 +1,27 @@
+{
+  "buddy": [
+    {
+      "id": 1,
+      "name": "america",
+      "pass": "united"
+    },
+    {
+      "id": 2,
+      "name": "sreeraj",
+      "pass": "olikkara"
+    },
+    {
+      "id": 3,
+      "name": "hunter",
+      "pass": "perfect"
+    },
+    {
+      "id": 4
+    },
+    {
+      "name": "asd",
+      "pass": "asd",
+      "id": 5
+    }
+  ]
+}
